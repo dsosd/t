@@ -2,7 +2,9 @@
 [$uuid_short] [$timestamp_short] $description_short
 
 ///Description
-$description_full
+$pull_rationale
+
+$git_request-pull
 
 author(s):
 $linked_authors...
