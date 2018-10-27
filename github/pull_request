@@ -1,0 +1,16 @@
+///Title
+[$uuid_short] [$timestamp_short] $description_short
+
+///Description
+$pull_rationale
+
+$git_request-pull
+
+author(s):
+$linked_authors...
+mention(s):
+$linked_mentions...
+
+Uuid: $uuid_full
+Timestamp: $timestamp_full
+Self reference: $linked_self_reference
