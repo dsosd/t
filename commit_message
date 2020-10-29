@@ -1,13 +1,11 @@
-[action] [object] +?
+multiple_changes
+
+[action] [object] multiple_changes?"+":""
 [blank line]
 [description]
 
-if `+`{
+if multiple_changes{
 [blank line]
-[action] [object]
+[action] [object] +
 [description]
-}
-
-?{
-[RESERVED]
-}
+}+
