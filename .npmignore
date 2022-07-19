@@ -1,3 +1,5 @@
-
 #node venv
 .node-version
+
+#personal files (should not be included here, but npm kinda forces this issue)
+.git_commit_template
