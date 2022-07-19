@@ -1,6 +1,6 @@
 {
 	"name": "@dsosd/t",
-	"version": "1000000000000.0.202219967960",
+	"version": "1000000000000.0.202219975473",
 	"description": "template package. see https://github.com/dsosd/t for more info",
 	"license": "MIT",
 	"repository": {
@@ -18,5 +18,7 @@
 	},
 	"devDependencies": {
 	},
-	"author": ""
+	"author": "",
+	"bugs": "https://dsosd.org/phurl",
+	"homepage": "https://dsosd.org/phurl"
 }
