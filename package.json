@@ -1,0 +1,22 @@
+{
+	"name": "@dsosd/t",
+	"version": "1000000000000.0.202219967960",
+	"description": "template package. see https://github.com/dsosd/t for more info",
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/dsosd/t"
+	},
+	"type": "module",
+	"main": "main.js",
+	"scripts": {
+		"test": "./test.sh"
+	},
+	"dependencies": {
+	},
+	"overrides": {
+	},
+	"devDependencies": {
+	},
+	"author": ""
+}
